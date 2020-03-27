@@ -26,6 +26,7 @@ public class VhrApplicationTests {
 
         HashMap<String, String> map = new HashMap<>();
         map.put("hjf","fd");
+        System.out.println("map = " + map);
     }
 
 }
